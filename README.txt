@@ -3,9 +3,11 @@ simple sockets
 
 This repository exists to store and record my "scratchwork" after reading through some of the beginning sections of Beej's Guide to Network Programming. [ https://beej.us/guide/bgnet/html/ ]
 
-To run the server: ``make server``
+To run the server:
+``make server``
 
-To run the client: ``make client``
+To run the client:
+``make client``
 
 SUNDRY NOTES:
 - The server and client must run simultaneously, so each should be run in its own terminal session.
